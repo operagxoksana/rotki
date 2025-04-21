@@ -47,9 +47,9 @@
 <div id="overview"></div>
 
 ## 📖 **Overview**
-[rotki](https://rotki.com/) is an opensource self-hosted portfolio management tool that puts privacy first. Unlike most competitors, which are closed-source SaaS platforms requiring you to hand over sensitive financial data, rotki keeps your data encrypted and stored locally—ensuring you stay in control. Our mission is to bring transparency to the crypto and financial sectors through opensource software, empowering users with a secure, self-sovereign alternative to cloud-based tracking services.
+[rotki](https://rotki.com/) is an open-source self-hosted portfolio management tool that puts privacy first. Unlike most competitors, which are closed-source SaaS platforms requiring you to hand over sensitive financial data, rotki keeps your data encrypted and stored locally-ensuring you stay in control. Our mission is to bring transparency to the crypto and financial sectors through open-source software, empowering users with a secure, self-sovereign alternative to cloud-based tracking services.
 
-🔹 **Why choose rotki?**
+🔹 **Why choose rotki:**
 - **Open-source & Transparent** 📖  
 - **Self-hosted** 🏠  
 - **Privacy-Focused** 🔒  
